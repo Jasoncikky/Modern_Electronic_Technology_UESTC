@@ -1,1 +1,1 @@
-# Modern_Electronic_Technology_UESTC
+# 现代电子技术综合实验_UESTC
